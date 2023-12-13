@@ -1,11 +1,7 @@
 
-
-
-
-
-
 <h1 align="center">Hi, my name is Mwai.</h1>
 <h3 align="center">A fullstack developer from Nairobi, Kenya</h3>
+
 
 - 🔭 I’m currently working on **several Flutter projects.**
 
