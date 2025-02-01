@@ -3,15 +3,15 @@
 <h3 align="center">A fullstack developer from Nairobi, Kenya</h3>
 
 
-- 🔭 I’m currently working on **several Flutter projects.**
+- 🔭 I’m currently working on **a very exciting project that i willl share soon**
 
-- 🌱 I’m currently learning **Flutter and Jetpack Compose.**
+- 🌱 I’m currently learning **Backend Development after working as a Frontend Developer for several years**
 
-- 👯 I’m looking to collaborate on **Flutter or Jetpack Compose Projects.**
+- 👯 I’m looking to collaborate on **Open Source projects**
 
 - 📝 I regularly write articles on [https://medium.com/@machariamwai](https://medium.com/@machariamwai)
 
-- 💬 Ask me about **Android apps with great UI designs.**
+- 💬 Ask me about **Apps with great UI designs solving real world problems.**
 
 - 📫 How to reach me **mwaimacharia@outlook.com**
 
